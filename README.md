@@ -1,6 +1,7 @@
 # technology-information-system
-# ASSIGNMENT
+# ASSIGNMENTS
 o Pc assemble
+
 A well-rounded computer science student should possess a comprehensive understanding of various aspects within the realm of computers, extending beyond just programming and application development. In our PC assembly module, we've acquired skills in assembling and disassembling computers, including tasks such as removing RAM, power supplies, and various other components. With this proficiency, I believe I've reached a decent level of competence as a computer science student.
 
 
