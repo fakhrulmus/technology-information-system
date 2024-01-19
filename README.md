@@ -9,3 +9,8 @@ A well-rounded computer science student should possess a comprehensive understan
 
 
 ![photo_2024-01-20_01-50-14](https://github.com/fakhrulmus/technology-information-system/assets/148434374/8315d3fd-c210-4925-9143-f475680eefa3)
+
+o Assignment  (Industry visit UTM Digital)
+
+
+
