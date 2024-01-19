@@ -1,6 +1,6 @@
 # technology-information-system
 # ASSIGNMENT
-$ Assignment 1 ( Interview session in NALI program)
+o Assignment 1 ( Interview session in NALI program)
 
 
 
