@@ -3,24 +3,8 @@
 
 ### Assignment 1 
 
-  These posters explain about Probased, a project-based learning application system that
-can be used either for students or lecturers. Probased supports project-based learning activities by
-simplifying the administration process of the method, and also providing efficient assessment
-tools. This application system can help many students and lecturers to manage their abundant
-project-based learning activities in a single application. They can automate the administrative
-process in Project-Based learning including project submission, motivation test, problem solving
-test and peer review using 360 Degree measurement which includes lecturer, supervisor and
-subordinate. This is very helpful for students to make sure all group members participate in the
-group assignment. From this activity, I learned that this application system is very convenient
-and beneficial for both students and lecturers. With this application, students can get more
-familiar with the professional practice and educate them about the real project situation. This will
-aid them to be more prepared in the future as they are going to handle bigger projects in real life
-situations, increasing student motivation and their problem solving skills. Moreover , I believe
-this activity will spark excitement among students, especially students in UTM. The NALI 2023
-event, as well as the interview sessions, make it much easier for me to understand the course
-material thoroughly. There are various interesting facts and extensive explanations about
-technological innovation that made students keen and curious to learn more deeper, particularly
-in ICT courses.
+In exploring the innovative projects presented at NALI 2023, a common thread of emerging technology's transformative impact on education. From Kahoot! enhancing engagement in commercial law classes to VR revolutionizing architectural learning experiences, e-bike tracking promoting transport resilience, mobile robots fostering programming resilience, to Probased streamlining project-based learning, these initiatives showcase the dynamic intersection of technology and education. The presenters emphasized not only the practical benefits, such as improved understanding and skill development, but also the exciting potential to make learning enjoyable and prepare students for future challenges. As a spectator, I found the event eye-opening, revealing the diverse ways in which technology is shaping the educational landscape and creating a more interactive and stimulating learning environment for students. The fusion of innovation and education showcased at NALI 2023 highlights the promising future of learning methodologies.
+  
 
 ### Assignment 2 
 It was a great experience with
