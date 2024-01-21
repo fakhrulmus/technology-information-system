@@ -21,7 +21,7 @@ event, as well as the interview sessions, make it much easier for me to understa
 material thoroughly. There are various interesting facts and extensive explanations about
 technological innovation that made students keen and curious to learn more deeper, particularly
 in ICT courses.
-7
+
 ### Assignment 2 
 It was a great experience with
 Clarity Techwork
