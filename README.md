@@ -24,6 +24,26 @@ Youtube video link : https://youtu.be/DJpYIcAF1gY?feature=shared
 
   Ms. Qistina Azman gave a thoughtful talk on system development that gave us a thorough grasp of its useful applications in real-world situations. With the goal of becoming a System Developer within the next four years, I understand the need of ongoing education and research, particularly in light of the swift pace of technological progress. The thorough comprehension obtained from the discussion has reaffirmed the significance of ongoing education and flexibility in a quickly changing technology environment. It is now clear that success in this profession requires more than just technical knowledge, highlighting the critical role that strong teamwork plays in overseeing complex projects. A sense of purpose sparks by realizing that my goals demand constant effort and devotion. Moreover, I recognize the importance of collaboration in overseeing extensive and intricate tasks. I have faith that if I put in constant effort and attention, I will succeed in this industry.
 
+### Design Thinking
+
+In this course, my objective is to acquire a comprehensive understanding of the
+subject matter and position myself for success in the field. I am determined to refine my
+practical skills, enhance critical thinking abilities, and cultivate a creative mindset.
+The influence of design thinking on my course objectives is profound as it equips me
+with a toolkit for innovative problem-solving. It encourages me to explore unconventional
+solutions, the iteration of ideas, and the incorporation of feedback. This mindset shift leads
+me to the development of creating groundbreaking solutions, especially in industry
+challenges which are needed the most nowadays. To elevate my potential in the industry, I am
+committed to:
+1. Consistently learning to stay updated with emerging technologies and industry trends
+through continuous training, including courses, certifications, and workshops.
+2. Building a professional network by establishing and nurturing connections with other
+industry professionals.
+3. Contributing numerous innovative ideas to open source projects or personal work to
+demonstrate my abilities aiming to gain practical experience and build a strong
+portfolio.
+
+
 ### Pc assemble
 
   A well-rounded computer science student should possess a comprehensive understanding of various aspects within the realm of computers, extending beyond just programming and application development. In our PC assembly module, we've acquired skills in assembling and disassembling computers, including tasks such as removing RAM, power supplies, and various other components. With this proficiency, I believe I've reached a decent level of competence as a computer science student.
@@ -33,6 +53,10 @@ Youtube video link : https://youtu.be/DJpYIcAF1gY?feature=shared
 
 
 ![photo_2024-01-20_01-50-14](https://github.com/fakhrulmus/technology-information-system/assets/148434374/8315d3fd-c210-4925-9143-f475680eefa3)
+
+
+
+  
 
  
 
